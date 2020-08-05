@@ -1,9 +1,8 @@
 # Hello, there! 
 ### My name is Lucas and I'm a Software Developer. 
 
-(https://github-readme-stats.vercel.app/api?username=lucasrafaldini&show_icons=true&count_private=true&theme=dark)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrafaldini&hide=css&theme=dark&layout=compact)
-
+[![Some github stats](https://github-readme-stats.vercel.app/api?username=lucasrafaldini&show_icons=true&count_private=true&theme=dark)](https://lucasrafaldini.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrafaldini&hide=css&theme=dark&layout=compact)](https://lucasrafaldini.github.io/)
 
 <!--
 **lucasrafaldini/lucasrafaldini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
