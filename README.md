@@ -4,7 +4,7 @@
 
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrafaldini&hide=css&theme=dark&layout=compact" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasrafaldini&show_icons=true&count_private=true&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lucasrafaldini&show_icons=true&count_private=true&theme=dark" />
 </a>
 
 
