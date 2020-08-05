@@ -2,10 +2,9 @@
 ### My name is Lucas and I'm a Software Developer. 
 
 
-<a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrafaldini&hide=css&theme=dark&layout=compact" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lucasrafaldini&show_icons=true&count_private=true&theme=dark" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrafaldini&hide=css&theme=dark&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucasrafaldini&show_icons=true&count_private=true&theme=dark" />
+
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrafaldini&hide=css&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
