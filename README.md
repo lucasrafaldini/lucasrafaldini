@@ -1,5 +1,11 @@
-# Hello, there! 
-### My name is Lucas and I'm a Software Developer. 
+# Hello, there! :wave:
+### My name is Lucas and I'm a Software Developer.
+### Welcome to my Github! Here are some facts about me:
+- I'm based in São Paulo, Brazil :flag-br:
+- I'm a Linux user and Open Source advocate :penguin:
+- I'm a bookworm and a hobbyst writer :book:
+
+### Feel free to get in touch and let's have some good talk!
 
 [![Some github stats](https://github-readme-stats.vercel.app/api?username=lucasrafaldini&show_icons=true&count_private=true&theme=dark)](https://lucasrafaldini.github.io/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrafaldini&hide=css&theme=dark&layout=compact)](https://lucasrafaldini.github.io/)
