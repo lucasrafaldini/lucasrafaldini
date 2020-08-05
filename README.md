@@ -9,7 +9,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrafaldini&hide=css&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasrafaldini&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
-### Hi there 👋
+### Hello, there! My Name is Lucas and I'm a Software Developer. Welcome to my Github!
 
 <!--
 **lucasrafaldini/lucasrafaldini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
