@@ -3,7 +3,7 @@
 ## Welcome to my Github! Here are some facts about me:
 ### - I'm based in São Paulo, Brazil 🇧🇷
 ### - I'm a Linux user and Open Source advocate :penguin:
-### - I'm a bookworm and a hobbyst writer :book:
+### - I'm a bookworm and a hobbyist writer :book:
 
 [![Some github stats](https://github-readme-stats.vercel.app/api?username=lucasrafaldini&show_icons=true&count_private=true&theme=dark)](https://lucasrafaldini.github.io/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrafaldini&hide=css&theme=dark&layout=compact)](https://lucasrafaldini.github.io/)
