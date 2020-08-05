@@ -1,9 +1,9 @@
 # Hello, there! :wave:
 ### My name is Lucas and I'm a Software Developer.
 ### Welcome to my Github! Here are some facts about me:
-- I'm based in São Paulo, Brazil :flag-br:
-- I'm a Linux user and Open Source advocate :penguin:
-- I'm a bookworm and a hobbyst writer :book:
+####- I'm based in São Paulo, Brazil :flag-brazil:
+####- I'm a Linux user and Open Source advocate :penguin:
+####- I'm a bookworm and a hobbyst writer :book:
 
 ### Feel free to get in touch and let's have some good talk!
 
