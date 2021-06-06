@@ -2,7 +2,6 @@
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)
 ![Hacker Rank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/Hackthebox-9FEF00?style=for-the-badge&logo=Hackthebox&logoColor=white)
 
 **My name is Lucas and I'm a Software Developer.**
 
