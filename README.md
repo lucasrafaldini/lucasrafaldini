@@ -11,7 +11,7 @@
 - I'm a Linux user and Open Source advocate :penguin:
 - I'm a bookworm and a hobbyist writer :book:
 - I'm currently learning Rust and looking for collaborate in Rust Open Source projects 🔧
-- You can ask me about the technologies I work with (you can check this Github to see which are they) and about how to start developing software coming from an Arts & Humanities background 🎨
+- You can ask me about technologies I work with (you can check this Github Profile to see which are they) and about how to start developing software coming from an Arts & Humanities background 🎨
  
 ### You can reach me through [Linkedin](https://www.linkedin.com/in/lucasrafaldini/)!
 
