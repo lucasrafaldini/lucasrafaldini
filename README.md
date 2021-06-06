@@ -1,7 +1,7 @@
 # **Hello, there!** :wave:
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)
-![Hacker Rank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-D10000?style=for-the-badge&logo=TryHackMe&logoColor=black)
+![Hacker Rank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black)
 
 **My name is Lucas and I'm a Software Developer.**
 
