@@ -1,18 +1,19 @@
 # **Hello, there!** :wave:
-** My name is Lucas and I'm a Software Developer. **
-![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)]
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)]
-![Hacker Rank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)]
-![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=HackTheBox&logoColor=white)]
 
-** Welcome to my Github! Here are some facts about me: **
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)
+![Hacker Rank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack-The-Box-9FEF00?style=for-the-badge&logo=Hack-The-Box&logoColor=white)
+
+**My name is Lucas and I'm a Software Developer.**
+
+**Welcome to my Github! Here are some facts about me:**
 - My pronoums are He/Him
 - I'm based in São Paulo, Brazil 🇧🇷
 - I'm a Linux user and Open Source advocate :penguin:
 - I'm a bookworm and a hobbyist writer :book:
 - I'm currently learning Rust and looking for collaborate in Rust Open Source projects 🔧
-- You can ask me about the technologies I work with (you can check this Github to see what are they) and about how to develop software coming from an Arts & Humanities background 🎨
-- 
+- You can ask me about the technologies I work with (you can check this Github to see which are they) and about how to start developing software coming from an Arts & Humanities background 🎨
+ 
 ### You can reach me through [Linkedin](https://www.linkedin.com/in/lucasrafaldini/)!
 
 [![Some github stats](https://github-readme-stats.vercel.app/api?username=lucasrafaldini&show_icons=true&count_private=true&theme=dark)](https://lucasrafaldini.github.io/)
