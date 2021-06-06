@@ -1,7 +1,7 @@
 # **Hello, there!** :wave:
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-D10000?style=for-the-badge&logo=TryHackMe&logoColor=black)(https://tryhackme.com/p/lulzlucas)]
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black)(https://www.hackerrank.com/lrafaldini])]
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-D10000?style=for-the-badge&logo=TryHackMe&logoColor=black)](https://tryhackme.com/p/lulzlucas)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/lrafaldini])
 
 **My name is Lucas and I'm a Software Developer.**
 
