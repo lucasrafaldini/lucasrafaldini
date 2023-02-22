@@ -1,8 +1,8 @@
 # **Hello, there!** :wave:
 <br>
 <p align="center">
-<a href="https://tryhackme.com/p/lulzlucas"><img align="center" alt="Hackerrank" src="https://img.shields.io/badge/TryHackMe-D10000?style=for-the-badge&logo=TryHackMe&logoColor=black"></a>
-<a href="https://tryhackme.com/p/lulzlucas"><img align="center" alt="Hackerrank" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black" href="https://www.hackerrank.com/lrafaldini"></a>
+<a href="https://tryhackme.com/p/lulzlucas" target="_blank"><img align="center" alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-D10000?style=for-the-badge&logo=TryHackMe&logoColor=black"></a>
+<a href="https://www.hackerrank.com/lrafaldini" target="_blank"><img align="center" alt="Hackerrank" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black"></a>
 </p>
 <p align="center">
 <a href="#"><img align="center" alt="Bash" height="35" width="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></a>
