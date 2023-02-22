@@ -1,16 +1,16 @@
 # **Hello, there!** :wave:
 <br>
 <p align="center">
-<img align="center" alt="Hackerrank" src="https://img.shields.io/badge/TryHackMe-D10000?style=for-the-badge&logo=TryHackMe&logoColor=black" href="https://tryhackme.com/p/lulzlucas">
-<img align="center" alt="Hackerrank" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black" href="https://www.hackerrank.com/lrafaldini">
+<a href="https://tryhackme.com/p/lulzlucas"><img align="center" alt="Hackerrank" src="https://img.shields.io/badge/TryHackMe-D10000?style=for-the-badge&logo=TryHackMe&logoColor=black"></a>
+<a href="https://tryhackme.com/p/lulzlucas"><img align="center" alt="Hackerrank" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black" href="https://www.hackerrank.com/lrafaldini"></a>
 </p>
 <p align="center">
-<img align="center" alt="Bash" height="35" width="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" href="#">
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" href="#">
-<img align="center" alt="Ruby" height="25" width="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" href="#">
-<img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" href="#">
-<img align="center" alt="Node" height="33" width="33" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" href="#">
-<img align="center" alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" href="#">
+<a href="#"><img align="center" alt="Bash" height="35" width="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></a>
+<a href="#"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+<a href="#"><img align="center" alt="Ruby" height="25" width="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg"></a>
+<a href="#"><img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
+<a href="#"><img align="center" alt="Node" height="33" width="33" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png"></a>
+<a href="#"><img align="center" alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
 </p>
 <br>
 
