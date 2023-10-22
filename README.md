@@ -27,7 +27,9 @@
 ### You can reach me through [Linkedin](https://www.linkedin.com/in/lucasrafaldini/)!
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrafaldini&hide=css,html&theme=dark&layout=compact)](https://lucasrafaldini.github.io/)
-
-[![Some github stats](https://github-readme-stats.vercel.app/api?username=lucasrafaldini&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://lucasrafaldini.github.io/)
-
+<a href="https://lucasrafaldini.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrafaldini&hide=css,html,jupyter%20notebook&langs_count=20&theme=dark&layout=donut-vertical" />
+</a>
+<a href="https://lucasrafaldini.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrafaldini&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
