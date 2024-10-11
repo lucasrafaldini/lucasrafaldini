@@ -14,7 +14,7 @@
 </p>
 <br>
 
-**My name is Lucas and I'm a Software Developer.**
+**My name is Lucas and I'm a Software/ Cybersecurity Engineer.**
 
 **Here are some facts about me:**
 - My pronoums are He/Him
