@@ -29,5 +29,7 @@
 <a href="#"><img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
 <a href="#"><img align="center" alt="Node" height="33" width="33" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png"></a>
 <a href="#"><img align="center" alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
+<a href="#"><img align="center" alt="Golang" src="https://raw.githubusercontent.com/jmnote/z-icons/refs/heads/master/svg/go.svg"></a>
+
 </p>
 <br>
