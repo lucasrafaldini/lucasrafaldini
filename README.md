@@ -29,8 +29,9 @@
 ### You can reach me through [Linkedin](https://www.linkedin.com/in/lucasrafaldini/)!
 
 <br>
-
+<p align="center">
 <a href="https://lucasrafaldini.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrafaldini&hide=css,html,jupyter%20notebook&langs_count=20&theme=dark&layout=donut-vertical" />
 </a>
+</p>
 <br>
