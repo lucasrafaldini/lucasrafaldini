@@ -35,3 +35,5 @@
 </a>
 </p>
 <br>
+
+[![An image of @rafaldini's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rafaldini)](https://holopin.io/@rafaldini)
