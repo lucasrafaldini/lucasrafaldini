@@ -50,9 +50,9 @@ Laboratório voltado ao desenvolvimento de jogos autorais e experimentos interat
 
 ## 🔬 Pesquisas, Projetos & Dossiês
 
-- **[lucasrafaldini.github.io](https://lucasrafaldini.github.io/)**: Manifesto pessoal, laboratório de sistemas e interface técnica inspirada na estética Swiss Blueprint.
+- **[lucasrafaldini.github.io](https://lucasrafaldini.github.io/)**: Portfolio pessoal, blog e laboratório de sistemas.
 - **[Símbolos da Era do Gelo na Europa](https://lucasrafaldini.github.io/estudos/)**: Dossiê analítico sobre sistemas de notação paleolíticos e signos abstratos do Paleolítico Superior.
-- **[O Décimo Círculo](https://lucasrafaldini.github.io/decimo-circulo/)**: Simulação procedural em Canvas 2D a 60fps combinando dinâmica de fluidos e boids.
+- **[O Décimo Círculo](https://lucasrafaldini.github.io/decimo-circulo/)**: Simulação procedural em Canvas 2D a 60fps com modelos de IA debatendo entre si.
 - **[mostre-sua-empresa](https://github.com/lucasrafaldini/mostre-sua-empresa)**: Hub open-source colaborativo mapeando diretórios de startups, ecossistemas de inovação e plataformas para fundadores.
 
 ---
@@ -69,7 +69,6 @@ Estética Visual:   Swiss Technical Blueprint • Minimalist UI • Canvas 2D / 
 
 ---
 
-## 📊 Estatísticas & Badges
 
 <p align="center">
   <a href="https://lucasrafaldini.github.io/">
@@ -85,7 +84,7 @@ Estética Visual:   Swiss Technical Blueprint • Minimalist UI • Canvas 2D / 
 
 ---
 
-## 📬 Conexões & Call to Action
+## 📬 Conexão
 
 Sempre aberto a diálogos técnicos sobre sistemas distribuídos, engenharia de alta escala, ferramentas CLI, projetos autorais via Thoth & Son ou jogos em Ways of Seeing:
 
@@ -94,4 +93,3 @@ Sempre aberto a diálogos técnicos sobre sistemas distribuídos, engenharia de 
 - 🏛️ **Bureau**: [thothandson.github.io](https://thothandson.github.io)
 - 🐙 **GitHub Thoth & Son**: [github.com/ThothandSon](https://github.com/ThothandSon)
 - ✍️ **Dev.to**: [dev.to/lucasrafaldini](https://dev.to/lucasrafaldini)
-- 📧 **Email**: [lucas.rafaldini@gmail.com](mailto:lucas.rafaldini@gmail.com)
