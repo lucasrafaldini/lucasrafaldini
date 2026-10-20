@@ -48,17 +48,6 @@ Laboratório voltado ao desenvolvimento de jogos independentes, ferramentas cria
 
 ---
 
-## ✍️ Artigos & Publicações Técnicas
-
-Alguns dos textos que escrevi recentemente sobre arquitetura, ferramentas e ecossistema de software:
-
-- **[Produtos Agent-Native e o Futuro do Software](https://lucasrafaldini.github.io/posts/produtos-agent-native-e-o-futuro-do-software/)**: Como a transição para produtos centrados em agentes de IA redefine a ergonomia e arquitetura de sistemas.
-- **[Memória, Privacidade e IA](https://lucasrafaldini.github.io/posts/memoria-privacidade-e-ia/)**: Uma reflexão sobre retenção de dados, contexto de modelos e preservação de identidade digital.
-- **[Go vs Python para Web Services](https://lucasrafaldini.github.io/posts/go-vs-python-para-web-services/)**: Comparações práticas de concorrência, overhead de runtime e velocidade de entrega em serviços de backend.
-- **[From a Simple Rust Gym Log to an Offline-First Gym OS](https://dev.to/lucasrafaldini/from-a-simple-rust-gym-log-to-an-offline-first-gym-os-2h54)**: Artigo no DEV.to documentando o desenvolvimento de uma aplicação offline-first em Rust.
-- **[From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy](https://dev.to/lucasrafaldini/from-forgotten-tech-test-to-mini-product-the-comeback-of-my-django-proxy-4p1m)**: Relato no DEV.to de como um teste técnico antigo se transformou em um utilitário funcional.
-
----
 
 ## 🔬 Pesquisas & Projetos Abertos
 
