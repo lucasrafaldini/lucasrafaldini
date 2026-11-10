@@ -25,16 +25,10 @@ Atuação no desenho, escalabilidade e resiliência de serviços críticos para 
 ### 🏛️ [Thoth & Son](https://thothandson.github.io/)
 > **Bureau de Software Independente • Engenharia de Autor**  
 Estúdio de software de autor, utilitários de alta performance e ferramentas focadas em privacidade e ergonomia técnica:
-- **Produtos do Bureau**:
-  - **[Lethe](https://thothandson.github.io/lethe/)**: EXIF Metadata Cleaner & Fuzzer (TUI interativa, interface desktop e CLI em lote para remoção rápida e auditada de dados sensíveis em milhares de fotos).
-  - **[Khronos](https://thothandson.github.io/)**: Agendador cron e gerenciador visual de LaunchAgents para macOS.
 - **Utilitários Open Source da T&S**:
   - **[ghost-rizz](https://github.com/ThothandSon/ghost-rizz)**: Fuzzer concorrente e limpador massivo de metadados EXIF escrito em pure Go.
   - **[cronbuddy](https://github.com/lucasrafaldini/cronbuddy)**: Assistente e interpretador CLI para expressões e rotinas cron.
   - **[wavetrack](https://github.com/lucasrafaldini/wavetrack)**: Utilitário para inspeção e processamento de formas de onda e áudio.
-- **Distribuição de Pacotes**:
-  - Homebrew Tap oficial: `brew tap ThothandSon/homebrew-tap`
-  - Scoop Bucket para Windows: `scoop bucket add ThothandSon`
 
 ### 🎮 [Ways of Seeing](https://github.com/Ways-of-Seeing)
 > **Estúdio de Games & Artefatos Digitais da Thoth & Son**  
